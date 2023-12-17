@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\portfolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\Pwc-logo.png",
+      "PackagePath": "staticwebassets\\Images&Files\\Pwc-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\ort.jpg",
+      "PackagePath": "staticwebassets\\Images&Files\\ort.jpg"
+    },
+    {
       "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
