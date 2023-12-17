@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\portfolio.csproj": {}
+    "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\portfolio.csproj": {
+    "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\portfolio.csproj",
         "projectName": "portfolio",
-        "projectPath": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\portfolio.csproj",
+        "projectPath": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\portfolio.csproj",
         "packagesPath": "C:\\Users\\Pancho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\obj\\",
+        "outputPath": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pancho\\AppData\\Roaming\\NuGet\\NuGet.Config",
