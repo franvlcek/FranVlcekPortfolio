@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U06kOU7cFh0W9Q5ma88ValOIU0KVyd4HWSLJWwymxCM=",
+  "Hash": "LCeSELu+87EOpFcBNYV2d/WpNuiLI71Z/FtbnKzmzWs=",
   "Source": "portfolio",
   "BasePath": "_content/portfolio",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\foto carnet fran_2.jpg",
+      "SourceId": "portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "Images&Files/foto carnet fran_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images&Files\\foto carnet fran_2.jpg"
     },
     {
       "Identity": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\ort.jpg",

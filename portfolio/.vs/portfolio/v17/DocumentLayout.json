@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-17T13:28:21.46Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
