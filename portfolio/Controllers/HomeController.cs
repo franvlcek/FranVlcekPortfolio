@@ -17,8 +17,19 @@ namespace portfolio.Controllers
         {
             return View();
         }
-
-        public IActionResult Privacy()
+        public IActionResult Education()
+        {
+            return View();
+        }
+        public IActionResult Employment()
+        {
+            return View();
+        }
+        public IActionResult Certificates()
+        {
+            return View();
+        }
+        public IActionResult MyProjects()
         {
             return View();
         }

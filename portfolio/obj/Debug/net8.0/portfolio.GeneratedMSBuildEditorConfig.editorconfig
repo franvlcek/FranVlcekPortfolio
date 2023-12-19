@@ -18,12 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Pancho\Desktop\PortfolioFV\FranVlcekPortfolio\Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Home/Certificates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDZXJ0aWZpY2F0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Home/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Home/Employment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3ltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Home/MyProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeVByb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Pancho/Desktop/PortfolioFV/FranVlcekPortfolio/Portfolio/Views/Shared/Error.cshtml]

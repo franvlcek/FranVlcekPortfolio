@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\portfolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\NET_Core.png",
+      "PackagePath": "staticwebassets\\Images&Files\\NET_Core.png"
+    },
+    {
       "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\Pwc-logo.png",
       "PackagePath": "staticwebassets\\Images&Files\\Pwc-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\csharp.png",
+      "PackagePath": "staticwebassets\\Images&Files\\csharp.png"
+    },
+    {
+      "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\css.png",
+      "PackagePath": "staticwebassets\\Images&Files\\css.png"
     },
     {
       "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\foto carnet fran_2.jpg",
