@@ -19,9 +19,9 @@ html {
 
 body {
     margin-bottom: 60px;
-    background: linear-gradient(#ffa586,#ffffff);
+    background: linear-gradient(#808080,#ffffff,#ffffff);
 }
-/*#f39f5a, #ffffff*/
+
 .nav-item:focus {
     box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
@@ -34,4 +34,10 @@ body {
 .navbar-elemento {
     font-weight: 800;
     color: #ffffff;
+}
+
+.centrotexto {
+    position: center;
+    top: 50%;
+    left: 50%;
 }
