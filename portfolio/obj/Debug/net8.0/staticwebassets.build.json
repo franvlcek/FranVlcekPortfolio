@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M6Eu587pzg6RhTb3ETCFxFjtsrUCbwOuPgXUm7qy8R8=",
+  "Hash": "gTcLtZgL3ckHhA8CwKbYS/zrsBmoAJbOZuCslP6k33M=",
   "Source": "portfolio",
   "BasePath": "_content/portfolio",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images&Files\\logo-ef.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\LOGO-INSC.png",
+      "SourceId": "portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/portfolio",
+      "RelativePath": "Images&Files/LOGO-INSC.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images&Files\\LOGO-INSC.png"
     },
     {
       "Identity": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\NET_Core.png",

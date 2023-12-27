@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\portfolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\LOGO-INSC.png",
+      "PackagePath": "staticwebassets\\Images&Files\\LOGO-INSC.png"
+    },
+    {
       "Id": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\Portfolio\\wwwroot\\Images&Files\\NET_Core.png",
       "PackagePath": "staticwebassets\\Images&Files\\NET_Core.png"
     },
