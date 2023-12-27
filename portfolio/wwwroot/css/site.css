@@ -40,4 +40,6 @@ body {
     position: center;
     top: 50%;
     left: 50%;
+    text-decoration:underline double;
 }
+
