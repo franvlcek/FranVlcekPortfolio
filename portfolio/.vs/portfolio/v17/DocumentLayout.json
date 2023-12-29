@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\home\\certificates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\home\\certificates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\home\\myprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\home\\myprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\home\\employment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\home\\employment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\views\\home\\certificates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:views\\home\\certificates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|c:\\users\\pancho\\desktop\\portfoliofv\\franvlcekportfolio\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC41D877-B588-45F4-8635-45C3E12E8B37}|portfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyProjects.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\MyProjects.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\MyProjects.cshtml",
-              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\MyProjects.cshtml",
-              "RelativeToolTip": "Views\\Home\\MyProjects.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-27T17:36:45.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Certificates.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Certificates.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Certificates.cshtml",
-              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Certificates.cshtml",
-              "RelativeToolTip": "Views\\Home\\Certificates.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Title": "Employment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Employment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Employment.cshtml",
+              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Employment.cshtml",
+              "RelativeToolTip": "Views\\Home\\Employment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-27T13:44:20.305Z",
+              "WhenOpened": "2023-12-29T13:04:10.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-29T12:54:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Education.cshtml",
               "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Education.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Education.cshtml",
               "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Education.cshtml",
               "RelativeToolTip": "Views\\Home\\Education.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-24T21:17:24.635Z",
+              "WhenOpened": "2023-12-29T12:44:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-12-29T12:34:32.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Certificates.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Certificates.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Certificates.cshtml",
+              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Certificates.cshtml",
+              "RelativeToolTip": "Views\\Home\\Certificates.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-29T12:29:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pancho\\Desktop\\PortfolioFV\\FranVlcekPortfolio\\portfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-29T12:26:19.39Z",
               "EditorCaption": ""
             }
           ]

@@ -20,6 +20,7 @@ html {
 body {
     margin-bottom: 60px;
     background: linear-gradient(#808080,#ffffff,#ffffff);
+    /*background: linear-gradient(#808080,#808080,#ffffff,#ffffff);*/
 }
 
 .nav-item:focus {
